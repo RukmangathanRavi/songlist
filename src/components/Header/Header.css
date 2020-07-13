@@ -1,0 +1,9 @@
+.displ{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.displ div #he{
+    margin: 20px;
+}

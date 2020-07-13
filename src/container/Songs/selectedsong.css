@@ -1,0 +1,8 @@
+.dspl{
+    display: flex;
+}
+
+.dsplvertical{
+    display: flex;
+    flex-direction: column
+}
